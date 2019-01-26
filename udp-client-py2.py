@@ -1,3 +1,11 @@
+###########################################################
+#
+# udp-client-py2.py
+# Modified version of "UDP Client" p. 11 Black Hat Python
+# Created: 25 Jan 2019
+#
+###########################################################
+
 import socket
 
 target_host = "127.0.0.1"
